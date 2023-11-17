@@ -82,7 +82,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![cal](https://github.com/jaswanth-1723/Calc/assets/127680667/90bd974a-ae58-4a91-976d-43fd436375cf)
+![21](https://github.com/SwethaReddy13/Calc/assets/129032832/491738b1-9dd8-43d3-9111-278974138cc4)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
